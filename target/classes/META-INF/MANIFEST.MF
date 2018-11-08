@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-practice
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: debashis
+Implementation-Vendor-Id: org.debashis.practice
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ practice/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

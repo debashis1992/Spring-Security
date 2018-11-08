@@ -1,0 +1,27 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "org.debashis.practice.app.MyDomain",
+      "name": "myspace",
+      "type": "org.debashis.practice.app.MyDomain"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "org.debashis.practice.app.MyDomain",
+      "name": "myspace.app",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.debashis.practice.app.MyDomain",
+      "name": "myspace.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "org.debashis.practice.app.MyDomain",
+      "name": "myspace.resource",
+      "type": "java.util.List<java.lang.String>"
+    }
+  ]
+}
